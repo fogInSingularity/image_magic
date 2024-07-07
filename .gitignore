@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+makefile
+release.mk
+debug.mk
+src/build
+image.png
+image_magic
+.cache/
+compile_commands.json
